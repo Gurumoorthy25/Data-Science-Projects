@@ -312,5 +312,7 @@ pip install -r requirements.txt
 jupyter notebook Guru_CNN_Project.ipynb
 
 ---
+
+---
 pip install -r requirements.txt
 jupyter notebook EDA_On_Job_Market_Project.ipynb

@@ -21,7 +21,8 @@ The main goal is to understand patterns in the data and provide useful insights 
   - Company  
   - Location  
   - Skills Required  
-  - Salary Range  
+  - Salary Range
+ ---
 
 ---
 
